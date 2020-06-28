@@ -20,6 +20,7 @@ _autosave-*
 *.xml
 *.csv
 
-# Can Aknesil
+# New additions by Can Aknesil
 
 .DS_Store
+*.sch-bak
